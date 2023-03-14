@@ -198,7 +198,11 @@ article {
         border-radius: 8px;
         box-shadow: 10px 25px 30px rgba(0,0,0,0.3);
 }
+<<<<<<< HEAD
 .buttatas {margin-left: 239px;
+=======
+.buttatas {margin-left: 235px;
+>>>>>>> a4dc77d86634b5c7a794a2fd818e8e6aea1455d4
 }
 .headcont {text-align: center;
            color: red;
