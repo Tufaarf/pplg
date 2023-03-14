@@ -2,6 +2,10 @@ html {
         max-height: 125%;
         min-height: 125%;
 }
+body {
+        width: 125%;
+        min-height: 200px;
+}
 .logo {
         align-content: center;
 }
