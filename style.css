@@ -1,0 +1,222 @@
+html {
+        max-height: 125%;
+}
+.logo {
+        align-content: center;
+}
+button {background-color: white;
+        width: 280px;
+        height: 50px;
+        top: 50%;
+        left: 50%;
+        overflow: hidden;
+        border: 10px solid #ffffff;
+        border-radius: 8px;
+        box-shadow: 10px 25px 30px rgba(0,0,0,0.3);
+}
+a {color:red;
+   font-family: impact;
+   text-decoration: none;
+}
+.sambutan {font-family: cursive;
+           font-size: 14px;
+           text-align: left; 
+           color: black;
+           margin-left: 150px;
+           margin-right: 150px;
+}
+.misi {
+        font-family: cursive;
+           font-size: 14px;
+           text-align: left; 
+           color: black;
+          margin-left: 50px;
+           margin-right: 150px;
+}
+.sambutanatas {color: red;
+               font-family: fantasy;  
+               text-align: left;
+               margin-left: 150px;
+               font-size: 24px;
+}
+.banner {height: 700px;
+         width: 1900px;
+         align-items: center;
+}
+
+.isihead {color: red;
+        font-family: fantasy;  
+        text-align: left;
+        margin-left: 300px;
+        font-size: 24px;
+}           
+.sambutanp {font-family:fantasy;
+            font-size: 20px;
+            color: red;
+}
+.selamat {
+        color: red;
+        font-family: fantasy;
+        text-align: center;
+}
+.tombolatas {
+        color:red;
+        font-family: cursive;
+}
+.jurusan {
+       text-align: center;
+       margin: 30px;
+       margin-right: 50px;
+       margin-left: 250px;
+       top: 50%;
+        left: 50%;
+        overflow: hidden;
+        border: 10px solid #ffffff;
+        border-radius: 8px;
+        box-shadow: 10px 25px 30px rgba(0,0,0,0.3);
+}
+.rpl{
+        margin-right: 125px;
+        margin-bottom: 25px;
+}
+.akun{
+        margin-right: 100px;
+        margin-bottom: 25px;
+}
+.bd{
+        margin: 30px;
+        margin-right: 100px;
+        margin-bottom: 25px;
+}
+.lp{
+        margin: 30px;
+        margin-right: 100px;
+        margin-bottom: 25px;
+        margin-left: 25px;
+}
+.otkp{
+        margin: 30px;
+        margin-right: 100px;
+        margin-bottom: 25px;
+}
+
+.rpltxt{
+        margin: 30px;
+        margin-right: 10px;
+        margin-bottom: 25px;
+        margin-left: 150px;
+        color: green;
+}
+.akuntxt{
+        margin: 30px;
+        margin-right: 10px;
+        margin-bottom: 25px;
+        margin-left: 105px;
+        padding-right: 55px;
+        color: palevioletred;
+}
+.bdtxt{
+        margin: 30px;
+        margin-right: 60px;
+        margin-bottom: 25px;
+        margin-left: 25px;
+        padding-left: 60px;
+        color: blue;
+}
+.lptxt{
+        margin: 30px;
+        margin-right: 50px;
+        margin-bottom: 25px;
+        border: 10px;
+        padding-left: 40px;
+        color: rgb(187, 187, 28);
+}
+.otkptxt{
+        margin: 30px;
+        margin-right: 50px;
+        margin-bottom: 25px;    
+        color: rgb(201, 33, 201);
+}
+.jurusantxt {
+        text-align: center;
+        color: rgb(255, 3, 3);
+        font-family: fantasy;
+        margin-bottom: 100px;
+}
+.video {text-align: center;
+        margin-bottom: 35px;
+        background-color: black;
+        width: 1050px;
+        height: 450px;
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-bottom: 100px;
+        top: 50%;
+        left: 50%;
+        overflow: hidden;
+        border: 10px solid #ffffff;
+        border-radius: 8px;
+        box-shadow: 10px 25px 30px rgba(0,0,0,0.3);
+}
+.extra {
+        font-family: cursive;
+           font-size: 18px;
+           text-align: left; 
+           margin-left: 325px;
+           margin-right: 250px;
+           margin-bottom: 100px;
+           top: 50%;
+        left: 50%;
+        overflow: hidden;
+        border: 100px solid #ffffff;
+        border-radius: 4px;
+        box-shadow: 10px 25px 30px rgba(0,0,0,0.3);
+}
+.kontakcor {
+        position: relative;
+        margin-left: 519px;
+        color: red;
+        font-family: cursive;
+}
+.buttkirim {
+        position: relative;
+        left: 50px;
+}
+body {
+        background-color: white;
+}
+article {
+        font-family: cursive;
+           font-size: 12px;
+           text-align: left; 
+           color: black;
+           margin-left: 150px;
+}
+.container{
+        top: 50%;
+        left: 50%;
+        overflow: hidden;
+        border: 10px solid #ffffff;
+        border-radius: 8px;
+        box-shadow: 10px 25px 30px rgba(0,0,0,0.3);
+}
+.buttatas {margin-left: 15px;
+}
+.headcont {text-align: center;
+           color: red;
+           font-family: fantasy;
+           font-size: 24px;
+           margin-bottom: 50px;
+}
+.buttkirim {
+        color: red;
+        background-color: white;
+        width: 280px;
+        height: 50px;
+        top: 50%;
+        left: 10%;
+        overflow: hidden;
+        border: 3px solid #ff0000;
+        border-radius: 8px;
+        box-shadow: 10px 25px 30px rgba(0,0,0,0.3);
+}
